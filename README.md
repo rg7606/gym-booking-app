@@ -1,0 +1,1 @@
+A full-stack Gym Slot Booking system built using React, Node.js, Express, and MySQL. Users can view available slots, book slots with capacity constraints, and cancel bookings. The backend is deployed on Render and the frontend on Vercel.
